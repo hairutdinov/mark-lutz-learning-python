@@ -1,0 +1,1 @@
+print('dir1/dir2/mod.py')
